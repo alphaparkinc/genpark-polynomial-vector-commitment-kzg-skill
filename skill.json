@@ -1,0 +1,13 @@
+{
+  "name": "genpark-polynomial-vector-commitment-kzg-skill",
+  "version": "1.0.0",
+  "description": "Polynomial and Vector Commitment simulation framework proving evaluation correctness f(z)=y without revealing the entire vector payload.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "vector-commitment",
+    "kzg-commitment",
+    "cryptographic-accumulator",
+    "zero-knowledge"
+  ]
+}
